@@ -1,0 +1,2 @@
+push 1234
+pop STATIC
